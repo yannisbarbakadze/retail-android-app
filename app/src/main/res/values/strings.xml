@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">River Island</string>
+
+    <string name="women">Women ></string>
+    <string name="action_settings">Settings</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_products">No products</string>
+    <string name="description_zoom_touch_close">Expanded image (touch to close)</string>
+    <string name="dresses">DRESSES</string>
+    <string name="ItemsCount">184 ITEMS</string>
+    <string name="menu">menu</string>
+    <string name="men">Men ></string>
+    <string name="boys">Boys ></string>
+    <string name="girls">Girls ></string>
+    <string name="cart">cart</string>
+    <string name="grid_button">grid_button</string>
+</resources>
